@@ -4,13 +4,9 @@
 
 本插件为[Rainmeter](https://www.rainmeter.net/)皮肤包，是模拟辉光管造型的桌面时钟。
 
-有多种样式可供选择： 
+支持多种样式和计时法： 
 
-![P_0](P_0.png)
-
-也能实现[30小时制](https://www.qiuwenbaike.cn/wiki/三十小时制)显示：
-
-![P_1](P_1.png)
+![P](P.png)
 
 ---
 
@@ -35,6 +31,8 @@
 ---
 
 ## 安装说明
+
+[视频教程](https://www.bilibili.com/video/BV1TpWJzkEho/)
 
 0. 前往[Rainmeter官网](https://www.rainmeter.net/)安装软件本体。
 1. 在[Releases](https://github.com/Fisher4124/NixieTubeClock-Fshr-Rainmeter/releases)页面下载`NixieTubeClock-Fshr.rmskin`（或[百度网盘](https://pan.baidu.com/s/1rnCdKQUy_qIQnrmf1Sn18w)）。
