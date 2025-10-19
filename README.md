@@ -50,9 +50,9 @@ It supports multiple styles and time formats:
 
    Start Rainmeter, then double-click the *.rmskin file to install.
 
-3. 状态栏系统托盘 → 找到Rainmeter图标，单击右键 → 进入【管理】界面调试。 
+3. 状态栏系统托盘 → 找到Rainmeter图标，单击右键 → 进入【**管理**】界面调试。 
 
-   System Tray → Find the Rainmeter icon, right-click → Enter the **Manage** interface for configuration.
+   System Tray → Find the Rainmeter icon, right-click → Enter the [**Manage**] interface for configuration.
 
 ---
 
